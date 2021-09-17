@@ -1,14 +1,10 @@
-# react-snake
+## About
 
-vytvořeno pomocí šablony [Create React App](https://github.com/facebook/create-react-app).
+simple game written in React. Just for fun. 
 
-## o aplikaci
+## Scripts
 
-jednoduchá hra na minimu řádků napsaná v Reactu.  
-
-## skripty
-
-v projektové složce:
+in the project directory, you can run:
 
 ### `npm start`
 
