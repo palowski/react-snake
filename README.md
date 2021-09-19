@@ -1,4 +1,4 @@
-## About
+## React Snake
 
 simple game written in React. Just for fun. 
 
