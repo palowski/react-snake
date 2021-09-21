@@ -1,6 +1,6 @@
 ## React Snake
 
-super simple (130 lines of code incl. comments) classic game written in React. Just for fun. 
+super simple (130 lines of code incl. CZ comments) classic game written in React.  
 
 ## Scripts
 
